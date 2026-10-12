@@ -9,7 +9,7 @@ window.SITE_CONTENT = {
   introTitle: "Payment Page",
 
   // الرسالة التي تظهر تحت العنوان في الصفحة الأولى
-  introMessage: "ادفع علي العنوان دا يروحي 01038607740.",
+  introMessage: "ادفع علي العنوان دا يروحي TQ9x7K2mP8vN4cR6yH3wJ5zA1bD7eF0gXy.",
 
   // الرمز التجريبي المبدئي (6 أرقام)
   accessCode: "114457",
